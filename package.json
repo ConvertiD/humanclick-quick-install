@@ -1,0 +1,12 @@
+{
+  "name": "humanclick-quick-install",
+  "version": "1.0.0",
+  "private": true,
+  "description": "One-click Cloudflare Worker for HumanClicks server-side click verification.",
+  "scripts": {
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}

@@ -1,0 +1,7 @@
+name = "humanclick-quick-install"
+main = "src/index.js"
+compatibility_date = "2026-01-01"
+
+[vars]
+# Ingest endpoint (users can also override this in Cloudflare dashboard settings)
+HUMANCLICKS_ENDPOINT = "https://vjkirvetnyxjagodlicx.supabase.co/functions/v1/click"
